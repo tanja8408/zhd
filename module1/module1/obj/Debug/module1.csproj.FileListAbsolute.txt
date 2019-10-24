@@ -1,0 +1,6 @@
+D:\Training\zhd\module1\module1\bin\Debug\module1.exe.config
+D:\Training\zhd\module1\module1\bin\Debug\module1.exe
+D:\Training\zhd\module1\module1\bin\Debug\module1.pdb
+D:\Training\zhd\module1\module1\obj\Debug\module1.csprojAssemblyReference.cache
+D:\Training\zhd\module1\module1\obj\Debug\module1.exe
+D:\Training\zhd\module1\module1\obj\Debug\module1.pdb
